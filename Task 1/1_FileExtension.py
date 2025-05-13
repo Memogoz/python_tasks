@@ -10,7 +10,7 @@ if len(sys.argv) != 2:
 filename = sys.argv[1]
 
 # Check if filename is valid
-if "\c.\c" not in filename :
+if "." not in filename :
     raise ValueError("Filename must contain at least one dot (.)")
 
 # Get the file extension
