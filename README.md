@@ -106,12 +106,12 @@ This script creates and sends a survey to a list of emails using the SurveyMonke
 
 **Usage:**
 ```bash
-Task 2/sendsurvey.py <questions.json> <emails.txt>
+./sendsurvey.py <questions.json> <emails.txt>
 ```
 
 **Example:**
 ```bash
-Task 2/sendsurvey.py questions.json emails.txt
+./sendsurvey.py questions.json emails.txt
 ```
 
 ---
