@@ -1,0 +1,181 @@
+{
+  "title": "New Survey 5",
+  "nickname": "My Survey 5",
+  "language": "en",
+  "pages": [
+        {
+            "questions": [
+          {
+                "headings": [
+                  {
+                    "heading": "What is the capital of France?"
+                  }
+                ],
+                "position": 1,
+                "family": "single_choice",
+                "subtype": "vertical",
+                "answers": {
+                  "choices": [
+                    { "text": "Paris" },
+                    { "text": "Lyon" },
+                    { "text": "Marseille" }
+                  ]
+                }
+              },
+              {
+                "headings": [
+                  {
+                    "heading": "Which planet is known as the Red Planet?"
+                  }
+                ],
+                "position": 2,
+                "family": "single_choice",
+                "subtype": "vertical",
+                "answers": {
+                  "choices": [
+                    { "text": "Mars" },
+                    { "text": "Jupiter" },
+                    { "text": "Saturn" }
+                  ]
+                }
+              },
+              {
+                "headings": [
+                  {
+                    "heading": "Who wrote 'Hamlet'?"
+                  }
+                ],
+                "position": 3,
+                "family": "single_choice",
+                "subtype": "vertical",
+                "answers": {
+                  "choices": [
+                    { "text": "William Shakespeare" },
+                    { "text": "Charles Dickens" },
+                    { "text": "Jane Austen" }
+                  ]
+                }
+              },
+              {
+                "headings": [
+                  {
+                    "heading": "What is the chemical symbol for water?"
+                  }
+                ],
+                "position": 4,
+                "family": "single_choice",
+                "subtype": "vertical",
+                "answers": {
+                  "choices": [
+                    { "text": "H2O" },
+                    { "text": "CO2" },
+                    { "text": "NaCl" }
+                  ]
+                }
+              },
+              {
+                "headings": [
+                  {
+                    "heading": "Who painted the Mona Lisa?"
+                  }
+                ],
+                "position": 5,
+                "family": "single_choice",
+                "subtype": "vertical",
+                "answers": {
+                  "choices": [
+                    { "text": "Leonardo da Vinci" },
+                    { "text": "Michelangelo" },
+                    { "text": "Vincent van Gogh" }
+                  ]
+                }
+              },
+              {
+                "headings": [
+                  {
+                    "heading": "Which continent is the Sahara Desert located in?"
+                  }
+                ],
+                "position": 6,
+                "family": "single_choice",
+                "subtype": "vertical",
+                "answers": {
+                  "choices": [
+                    { "text": "Africa" },
+                    { "text": "Asia" },
+                    { "text": "Australia" }
+                  ]
+                }
+              },
+              {
+                "headings": [
+                  {
+                    "heading": "In which year did the Titanic sink?"
+                  }
+                ],
+                "position": 7,
+                "family": "single_choice",
+                "subtype": "vertical",
+                "answers": {
+                  "choices": [
+                    { "text": "1912" },
+                    { "text": "1920" },
+                    { "text": "1905" }
+                  ]
+                }
+              },
+              {
+                "headings": [
+                  {
+                    "heading": "Which language is the most spoken in the world?"
+                  }
+                ],
+                "position": 8,
+                "family": "single_choice",
+                "subtype": "vertical",
+                "answers": {
+                  "choices": [
+                    { "text": "Mandarin Chinese" },
+                    { "text": "Spanish" },
+                    { "text": "English" }
+                  ]
+                }
+              },
+              {
+                "headings": [
+                  {
+                    "heading": "Which gas do plants absorb from the atmosphere?"
+                  }
+                ],
+                "position": 9,
+                "family": "single_choice",
+                "subtype": "vertical",
+                "answers": {
+                  "choices": [
+                    { "text": "Carbon Dioxide" },
+                    { "text": "Oxygen" },
+                    { "text": "Nitrogen" }
+                  ]
+                }
+              },
+              {
+                "headings": [
+                  {
+                    "heading": "What is the largest mammal in the world?"
+                  }
+                ],
+                "position": 10,
+                "family": "single_choice",
+                "subtype": "vertical",
+                "answers": {
+                  "choices": [
+                    { "text": "Blue Whale" },
+                    { "text": "African Elephant" },
+                    { "text": "Giraffe" }
+                  ]
+                }
+              }
+            ]
+          }
+    ]
+}

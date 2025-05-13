@@ -1,0 +1,4 @@
+emily.jones@example.com
+team.leads@example.com
+daniel.roberts@example.com
+hr@companyxyz.com
