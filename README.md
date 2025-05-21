@@ -113,6 +113,14 @@ This script creates and sends a survey to a list of emails using the SurveyMonke
 ```bash
 ./sendsurvey.py questions.json emails.txt
 ```
+---
+
+## Advanced task
+
+### Pizzeria Web Server and client CLI 
+The command-line tool allows you to interact with the Pizza Ordering API server. You can view the menu, place orders, check order status, and perform admin operations such as managing the menu and orders.
+
+Aditional information can be found inside the `/Advanced Task` folder.
 
 ---
 
